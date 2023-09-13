@@ -2,7 +2,7 @@
 
 ![whoami](https://github.com/difhel/difhel/assets/78644136/2738eeaa-7657-4583-881c-1d14f509cb48)
 
-I am Mark Fomin, web-developer from Moscow. I am currently graduating from high school.
+I am [Mark Fomin](https://t.me/difhel_b), web-developer from Dolgoprudny (Russia). I am currently graduating from high school.
 
 
 ![skills](https://github.com/difhel/difhel/assets/78644136/b148a52a-0a5d-4af4-b31f-8db5cf76e997) 
@@ -12,7 +12,7 @@ I am Mark Fomin, web-developer from Moscow. I am currently graduating from high 
 Below are some of the skills and technologies I am proficient in:
 
 - Vanilla layout (🌐 HTML, 🎨 CSS, 🔮 JS)
-- 🐍 Python 3 (I have experience with vkbottle, aiogram, fastapi ❤️, flask, selenium, ...)
+- 🐍 Python 3 (I have experience with vkbottle, aiogram, fastapi ❤️, flask, selenium, bs4, ...)
 - 🌐 RESTful APIs
 - 📜 Git
 - 🛠️🎨 Figma (design & prototyping)
@@ -66,7 +66,7 @@ Explore these projects to see what I've been working on. They showcase my passio
 ## 📞 Contact Information
 
 - 📧 Email: [gh@difhel.dev](mailto:gh@difhel.dev)
-- 🌐 Portfolio & personal site: [difhel.dev](https://difhel.dev)
+- 🌐 Blog & personal site: [difhel.dev](https://difhel.dev)
 - 🐦 Twitter (rarely online): [@difhel](https://twitter.com/difhel)
 - ✈️ Telegram: [@difhel](https://t.me/difhel)
 - 💙 VK: [@superdev](https://vk.com/superdev)
