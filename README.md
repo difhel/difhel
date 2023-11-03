@@ -3,6 +3,7 @@
 ![whoami](https://github.com/difhel/difhel/assets/78644136/2738eeaa-7657-4583-881c-1d14f509cb48)
 
 I am [Mark Fomin](https://t.me/difhel_b), web-developer from Dolgoprudny (Russia). I am currently graduating from high school.
+[![wakatime](https://wakatime.com/badge/user/0e01e3b6-ff17-4387-898c-f506002f4b69.svg)](https://wakatime.com/@0e01e3b6-ff17-4387-898c-f506002f4b69)
 
 
 ![skills](https://github.com/difhel/difhel/assets/78644136/b148a52a-0a5d-4af4-b31f-8db5cf76e997) 
