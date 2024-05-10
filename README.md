@@ -40,13 +40,23 @@ Below are some of the skills and technologies I am proficient in:
 
 Here are some of the projects I have worked on:
 
-## Elan Contest Management System
+### Elan Contest Management System
 - 📝 Description: Elan is a modern platform and testing system for holding programming contests. It is like ejudge or Yandex Contest, but a way better.
 - 📂 GitHub Repository: [elan](https://github.com/elansteam/backend)
 
 ### sdfui & sdfui-icons
 - 📝 Description: React-components library with core & additional UI components for the Superdef social network and mini-apps platform based on Google's [Material You](https://m3.material.io) design system.
 - 📂 GitHub Repository: [sdfui](https://github.com/nacteam/sdfui), [sdfui-icons](https://github.com/nacteam/sdfui-icons)
+
+### cython-fastapi-example
+- 📝 Description: An example of using Python `fastapi` code with `cython` and [open research](https://difhel.dev/blog/cython-fastapi-benchmark) on the results of the acceleration
+- 📂 GitHub Repository: [cython-fastapi-example](https://github.com/difhel/cython-fastapi-example)
+
+### iSelectBot
+- 📝 Description: Bot with a mini-app for hosting giveaways directly in Telegram.
+- 📂 GitHub Repository: [iSelectBot](https://github.com/difhel/iSelectBot)
+- ▶️ Live Demo: [t.me/iSelectBot](https://t.me/iSelectBot)
+
 
 ### AI Messenger Suggestions
 
@@ -65,13 +75,12 @@ Explore these projects to see what I've been working on. They showcase my passio
 
 ![contacts](https://github.com/difhel/difhel/assets/78644136/fd1e6445-35cd-442e-9d40-fe034525a7d5)
 
-## 📞 Contact Information
-
+## 📞 Contact Information and resources
+- ✈️ Telegram: [@difhel](https://t.me/difhel)
 - 📧 Email: [gh@difhel.dev](mailto:gh@difhel.dev)
 - 🌐 Blog & personal site: [difhel.dev](https://difhel.dev)
+- 🦢 Хабраблог (blog on Habr): [habr.com/users/difhel](https://habr.com/users/difhel)
 - 🐦 Twitter (rarely online): [@difhel](https://twitter.com/difhel)
-- ✈️ Telegram: [@difhel](https://t.me/difhel)
-- 💙 VK: [@superdev](https://vk.com/superdev)
 <!-- - 🔗 LinkedIn: [Your Name](https://www.linkedin.com/in/yourname) -->
 
 Feel free to reach out to me via any of the above channels. I'm always open to discussions and collaborations! Let's connect and build amazing things together. 🌟
@@ -84,7 +93,6 @@ Please refer to my [portfolio](https://difhel.dev) for a more detailed list of m
 
 If you're interested in contributing to any of the projects or have suggestions for improvement, feel free to submit pull requests or open issues in the respective GitHub repositories. Let's collaborate and make these projects even better together! 👥
 
-## 📄 License
+# Let's create something amazing while respecting open-source principles! 🌈
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project in accordance with the terms specified in the license. Let's create something amazing while respecting open-source principles! 🌈
-
+> \- MF, 10.05.2024
