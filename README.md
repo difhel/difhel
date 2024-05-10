@@ -5,6 +5,10 @@
 I am [Mark Fomin](https://t.me/difhel_b), web-developer from Dolgoprudny (Russia). I am currently graduating from high school.
 [![wakatime](https://wakatime.com/badge/user/0e01e3b6-ff17-4387-898c-f506002f4b69.svg)](https://wakatime.com/@0e01e3b6-ff17-4387-898c-f506002f4b69)
 
+> [!TIP]
+> Follow my Telegram blog on Russian - only serious content about my projects and life. Articles on [Habr](https://habr.com/users/difhel) included.
+> https://t.me/difhel_b
+
 
 ![skills](https://github.com/difhel/difhel/assets/78644136/b148a52a-0a5d-4af4-b31f-8db5cf76e997) 
 ### 💻 Development Skills
@@ -36,6 +40,14 @@ Below are some of the skills and technologies I am proficient in:
 
 Here are some of the projects I have worked on:
 
+## Elan Contest Management System
+- 📝 Description: Elan is a modern platform and testing system for holding programming contests. It is like ejudge or Yandex Contest, but a way better.
+- 📂 GitHub Repository: [elan](https://github.com/elansteam/backend)
+
+### sdfui & sdfui-icons
+- 📝 Description: React-components library with core & additional UI components for the Superdef social network and mini-apps platform based on Google's [Material You](https://m3.material.io) design system.
+- 📂 GitHub Repository: [sdfui](https://github.com/nacteam/sdfui), [sdfui-icons](https://github.com/nacteam/sdfui-icons)
+
 ### AI Messenger Suggestions
 
 - 📝 Description: GPT-based automatic suggestions engine for answering messages
@@ -47,14 +59,6 @@ Here are some of the projects I have worked on:
 - 📂 GitHub Repository: [vkgpt-frontend](https://github.com/difhel/vkgpt-frontend)
 - ▶️ Live Demo: [Figma Presentation (rev. 1)](https://gg.gg/vkgpt2)
 
-
-
-
-### SDF UI
-
-- 📝 Description: React-components library with core & additional UI components for the Superdef social network and mini-apps platform
-- 📂 GitHub Repository: [sdfui](https://github.com/nacteam/sdfui)
-- ▶️ Live Demo: not available yet
 
 Explore these projects to see what I've been working on. They showcase my passion for coding and my dedication to delivering high-quality solutions. 😄
 
