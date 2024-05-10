@@ -12,19 +12,27 @@ I am [Mark Fomin](https://t.me/difhel_b), web-developer from Dolgoprudny (Russia
  
 Below are some of the skills and technologies I am proficient in:
 
-- Vanilla layout (🌐 HTML, 🎨 CSS, 🔮 JS)
-- 🐍 Python 3 (I have experience with vkbottle, aiogram, fastapi ❤️, flask, selenium, bs4, ...)
+- **Frontend**:
+    - **Vanilla layout** (🌐 HTML, 🎨 CSS, 🔮 JS)
+    - ⚛️ **TypeScript** and **React**
+- **Other languages**:
+    - 🐍 **Python 3** (I have experience with `fastapi` ❤️, `aiogram` (both `v2` and `v3`), `vkbottle`, `flask`, `selenium`, `bs4` and many-many others)
+    - ⚙️ **C/C++** (`SFML`, `httplib`, ...) + `cmake` and `make` tools
+    - 📱 **Mobile**: Android Development (Java/Kotlin) (started researching)
+    - 🐘 **PHP** (started researching)
+- 💽 **Databases**: MongoDB ❤️, sqlite, PostgreSQL
+- **DevOps**:
+    - 📦 **Docker** & **Docker Compose**
+    - 🅰️ **Ansible** (started researching)
+- 🛠️🎨 **Design & prototyping**: Figma, Krita, Gimp
 - 🌐 RESTful APIs
 - 📜 Git
-- 🛠️🎨 Figma (design & prototyping)
-- ⚛️ React (started researching)
-- 📱 Android Development (Java/Kotlin) (started researching)
-- 🐘 PHP (started researching)
 
 ![dev_projects](https://github.com/difhel/difhel/assets/78644136/70afdfa3-8e48-4b5c-a145-c8ffc70a7037)
 
 
-## 🚀 Coding Projects 
+## 🚀 My Open Source* Coding Projects 
+> \* - I also had many projects with closed source, but most of them are not so interesting and are under NDA :(
 
 Here are some of the projects I have worked on:
 
@@ -32,7 +40,6 @@ Here are some of the projects I have worked on:
 
 - 📝 Description: GPT-based automatic suggestions engine for answering messages
 - 📂 GitHub Repository: [ai-messenger-suggestions](https://github.com/difhel/ai-messenger-suggestions)
-- ▶️ Live Demo: coming soon
 
 ### VKGPT
 
@@ -41,17 +48,7 @@ Here are some of the projects I have worked on:
 - ▶️ Live Demo: [Figma Presentation (rev. 1)](https://gg.gg/vkgpt2)
 
 
-### VK Blog & Press Releases Parser
 
-- 📝 Description: A project for the vk.com/vkgid community with the implementation of a subscription to the mailing list of parsed VKontakte press releases (vk.com/press). The project is closed, there is another implementation on production.
-- 📂 GitHub Repository: [deleted]
-- ▶️ Live Demo: coming soon
-
-### NAC ID
-
-- 📝 Description: Single sign-on portal for [@nacteam](https://github.com/nacteam) ecosystem projects
-- 📂 GitHub Repository: closed source
-- ▶️ Live Demo: not available yet
 
 ### SDF UI
 
