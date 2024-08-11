@@ -1,12 +1,10 @@
 # 👋 Hi there!
 
-![whoami](https://github.com/difhel/difhel/assets/78644136/2738eeaa-7657-4583-881c-1d14f509cb48)
-
-I am [Mark Fomin](https://t.me/difhel_b), web-developer from Dolgoprudny (Russia). I am currently graduating from high school.
-[![wakatime](https://wakatime.com/badge/user/0e01e3b6-ff17-4387-898c-f506002f4b69.svg)](https://wakatime.com/@0e01e3b6-ff17-4387-898c-f506002f4b69)
+I am [Mark Fomin](https://t.me/difhel_b), developer and entrepreneur from Dolgoprudny (Russia).
 
 > [!TIP]
 > Follow my Telegram blog on Russian - only serious content about my projects and life. Articles on [Habr](https://habr.com/users/difhel) included.
+>
 > https://t.me/difhel_b
 
 
@@ -52,17 +50,6 @@ Here are some of the projects I have worked on:
 - 📝 Description: An example of using Python `fastapi` code with `cython` and [open research](https://difhel.dev/blog/cython-fastapi-benchmark) on the results of the acceleration
 - 📂 GitHub Repository: [cython-fastapi-example](https://github.com/difhel/cython-fastapi-example)
 
-### iSelectBot
-- 📝 Description: Bot with a mini-app for hosting giveaways directly in Telegram.
-- 📂 GitHub Repository: [iSelectBot](https://github.com/difhel/iSelectBot)
-- ▶️ Live Demo: [t.me/iSelectBot](https://t.me/iSelectBot)
-
-
-### AI Messenger Suggestions
-
-- 📝 Description: GPT-based automatic suggestions engine for answering messages
-- 📂 GitHub Repository: [ai-messenger-suggestions](https://github.com/difhel/ai-messenger-suggestions)
-
 ### VKGPT
 
 - 📝 Description: Unofficial VK Messenger client with automatic one-click replies powered by [ai-messenger-suggestions](https://github.com/difhel/ai-messenger-suggestions)
@@ -81,7 +68,6 @@ Explore these projects to see what I've been working on. They showcase my passio
 - 🌐 Blog & personal site: [difhel.dev](https://difhel.dev)
 - 🦢 Хабраблог (blog on Habr): [habr.com/users/difhel](https://habr.com/users/difhel)
 - 🐦 Twitter (rarely online): [@difhel](https://twitter.com/difhel)
-<!-- - 🔗 LinkedIn: [Your Name](https://www.linkedin.com/in/yourname) -->
 
 Feel free to reach out to me via any of the above channels. I'm always open to discussions and collaborations! Let's connect and build amazing things together. 🌟
 
@@ -92,7 +78,3 @@ Please refer to my [portfolio](https://difhel.dev) for a more detailed list of m
 ## 🤝 Contributing
 
 If you're interested in contributing to any of the projects or have suggestions for improvement, feel free to submit pull requests or open issues in the respective GitHub repositories. Let's collaborate and make these projects even better together! 👥
-
-# Let's create something amazing while respecting open-source principles! 🌈
-
-> \- MF, 10.05.2024
