@@ -2,14 +2,15 @@
 
 I am [Mark Fomin](https://t.me/difhel_b), developer and entrepreneur from Dolgoprudny (Russia).
 
-> [!TIP]
-> Follow my Telegram blog on Russian - only serious content about my projects and life. Articles on [Habr](https://habr.com/users/difhel) included.
+> [!IMPORTANT]
+> **Follow my Telegram blog on Russian - only serious content about my projects and life.** Articles on [Habr](https://habr.com/users/difhel) included.
 >
 > https://t.me/difhel_b
 
-
-![skills](https://github.com/difhel/difhel/assets/78644136/b148a52a-0a5d-4af4-b31f-8db5cf76e997) 
-### 💻 Development Skills
+<p>
+  <img src="https://github.com/difhel/difhel/assets/78644136/b148a52a-0a5d-4af4-b31f-8db5cf76e997" height="50" alt="skills" align="right">
+  <h3>💻 Development Skills</h3>
+</p>
 Do you really need a big list of every technology I've ever worked with? :)
 
 I guess not, so superficially:
@@ -19,8 +20,12 @@ I guess not, so superficially:
 - I write backend - love `fastapi` in Python ❤️, had experience with PHP, Express.js and C++ `httplib`
 - Doing devops stuff - bash native speaker, actively using Docker and Ansible
 
-![dev_projects](https://github.com/difhel/difhel/assets/78644136/70afdfa3-8e48-4b5c-a145-c8ffc70a7037)
-## 📂 My projects
+
+<p>
+  <img src="https://github.com/difhel/difhel/assets/78644136/70afdfa3-8e48-4b5c-a145-c8ffc70a7037" height="50" alt="dev projects" align="right">
+  <h3>📂 My projects</h3>
+</p>
+
 I've worked on a lot of very different projects, most of them under NDA, but here are the most interesting ones:
 
 - **[Elan Contest Management System](https://github.com/elansteam/backend)**. My team is working on creating the next-generation platform for holding programming contests. Say goodbye to Codeforces and Leetcode!
@@ -30,10 +35,11 @@ I've worked on a lot of very different projects, most of them under NDA, but her
 
 Explore these projects to see what I've been working on. They showcase my passion for coding and my dedication to delivering high-quality solutions. 😄
 
+<p>
+  <img src="https://github.com/difhel/difhel/assets/78644136/fd1e6445-35cd-442e-9d40-fe034525a7d5" height="50" alt="contacts" align="right">
+  <h3>📞 Contact Information and resources</h3>
+</p>
 
-![contacts](https://github.com/difhel/difhel/assets/78644136/fd1e6445-35cd-442e-9d40-fe034525a7d5)
-
-## 📞 Contact Information and resources
 Write me in Telegram ([@difhel](https://t.me/difhel)), follow [my channel](https://t.me/difhel_b) and read my articles in the [Хаброблог](https://habr.com/users/difhel) (blog on Habr)!
 
 Feel free to reach out to me via any of the above channels. I'm always open to discussions and collaborations! Let's connect and build amazing things together. 🌟
