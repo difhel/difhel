@@ -20,24 +20,12 @@ I guess not, so superficially:
 - Doing devops stuff - bash native speaker, actively using Docker and Ansible
 
 ![dev_projects](https://github.com/difhel/difhel/assets/78644136/70afdfa3-8e48-4b5c-a145-c8ffc70a7037)
+## 📂 My projects
+I've worked on a lot of very different projects, most of them under NDA, but here are the most interesting ones:
 
-> \* - I also had many projects with closed source, but most of them are not so interesting and are under NDA :(
-
-Here are some of the projects I have worked on:
-
-### Elan Contest Management System
-- 📝 Description: Elan is a modern platform and testing system for holding programming contests. It is like ejudge or Yandex Contest, but a way better.
-- 📂 GitHub Repository: [elan](https://github.com/elansteam/backend)
-
-### cython-fastapi-example
-- 📝 Description: An example of using Python `fastapi` code with `cython` and [open research](https://difhel.dev/blog/cython-fastapi-benchmark) on the results of the acceleration
-- 📂 GitHub Repository: [cython-fastapi-example](https://github.com/difhel/cython-fastapi-example)
-
-### VKGPT
-
-- 📝 Description: Unofficial VK Messenger client with automatic one-click replies powered by [ai-messenger-suggestions](https://github.com/difhel/ai-messenger-suggestions)
-- 📂 GitHub Repository: [vkgpt-frontend](https://github.com/difhel/vkgpt-frontend)
-- ▶️ Live Demo: [Figma Presentation (rev. 1)](https://gg.gg/vkgpt2)
+- **[Elan Contest Management System](https://github.com/elansteam/backend)**. My team is working on creating the next-generation platform for holding programming contests. Say goodbye to Codeforces and Leetcode!
+- **[VKGPT](https://gg.gg/vkgpt2)**. My Samsung IT School graduation project - an unofficial VK Messenger client with automatic one-click replies powered by [ai-messenger-suggestions](https://github.com/difhel/ai-messenger-suggestions)
+- **[MyTonWallet](https://github.com/mytonwalletorg/mytonwallet)**. Open-source feature-rich TON wallet – with support of staking, multi-accounts, tokens, Ledger, NFT, TON DNS, TON Sites, TON Proxy, and TON Magic.
 
 
 Explore these projects to see what I've been working on. They showcase my passion for coding and my dedication to delivering high-quality solutions. 😄
