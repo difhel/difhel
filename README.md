@@ -32,8 +32,6 @@ Below are some of the skills and technologies I am proficient in:
 
 ![dev_projects](https://github.com/difhel/difhel/assets/78644136/70afdfa3-8e48-4b5c-a145-c8ffc70a7037)
 
-
-## 🚀 My Open Source* Coding Projects 
 > \* - I also had many projects with closed source, but most of them are not so interesting and are under NDA :(
 
 Here are some of the projects I have worked on:
@@ -41,10 +39,6 @@ Here are some of the projects I have worked on:
 ### Elan Contest Management System
 - 📝 Description: Elan is a modern platform and testing system for holding programming contests. It is like ejudge or Yandex Contest, but a way better.
 - 📂 GitHub Repository: [elan](https://github.com/elansteam/backend)
-
-### sdfui & sdfui-icons
-- 📝 Description: React-components library with core & additional UI components for the Superdef social network and mini-apps platform based on Google's [Material You](https://m3.material.io) design system.
-- 📂 GitHub Repository: [sdfui](https://github.com/nacteam/sdfui), [sdfui-icons](https://github.com/nacteam/sdfui-icons)
 
 ### cython-fastapi-example
 - 📝 Description: An example of using Python `fastapi` code with `cython` and [open research](https://difhel.dev/blog/cython-fastapi-benchmark) on the results of the acceleration
