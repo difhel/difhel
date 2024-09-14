@@ -10,25 +10,14 @@ I am [Mark Fomin](https://t.me/difhel_b), developer and entrepreneur from Dolgop
 
 ![skills](https://github.com/difhel/difhel/assets/78644136/b148a52a-0a5d-4af4-b31f-8db5cf76e997) 
 ### 💻 Development Skills
+Do you really need a big list of every technology I've ever worked with? :)
 
- 
-Below are some of the skills and technologies I am proficient in:
+I guess not, so superficially:
 
-- **Frontend**:
-    - **Vanilla layout** (🌐 HTML, 🎨 CSS, 🔮 JS)
-    - ⚛️ **TypeScript** and **React**
-- **Other languages**:
-    - 🐍 **Python 3** (I have experience with `fastapi` ❤️, `aiogram` (both `v2` and `v3`), `vkbottle`, `flask`, `selenium`, `bs4` and many-many others)
-    - ⚙️ **C/C++** (`SFML`, `httplib`, ...) + `cmake` and `make` tools
-    - 📱 **Mobile**: Android Development (Java/Kotlin) (started researching)
-    - 🐘 **PHP** (started researching)
-- 💽 **Databases**: MongoDB ❤️, sqlite, PostgreSQL
-- **DevOps**:
-    - 📦 **Docker** & **Docker Compose**
-    - 🅰️ **Ansible** (started researching)
-- 🛠️🎨 **Design & prototyping**: Figma, Krita, Gimp
-- 🌐 RESTful APIs
-- 📜 Git
+- I have high expertise in frontend - mostly write in Typescript and React, love SCSS and know how to work with webpack/vite builders
+- Made social media bots using `aiogram` for Telegram and `vkbottle` for VKontakte. The most popular project is used by 40K+ people
+- I write backend - love `fastapi` in Python ❤️, had experience with PHP, Express.js and C++ `httplib`
+- Doing devops stuff - bash native speaker, actively using Docker and Ansible
 
 ![dev_projects](https://github.com/difhel/difhel/assets/78644136/70afdfa3-8e48-4b5c-a145-c8ffc70a7037)
 
