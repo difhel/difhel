@@ -34,18 +34,8 @@ Explore these projects to see what I've been working on. They showcase my passio
 ![contacts](https://github.com/difhel/difhel/assets/78644136/fd1e6445-35cd-442e-9d40-fe034525a7d5)
 
 ## 📞 Contact Information and resources
-- ✈️ Telegram: [@difhel](https://t.me/difhel)
-- 📧 Email: [gh@difhel.dev](mailto:gh@difhel.dev)
-- 🌐 Blog & personal site: [difhel.dev](https://difhel.dev)
-- 🦢 Хабраблог (blog on Habr): [habr.com/users/difhel](https://habr.com/users/difhel)
-- 🐦 Twitter (rarely online): [@difhel](https://twitter.com/difhel)
+Write me in Telegram ([@difhel](https://t.me/difhel)), follow [my channel](https://t.me/difhel_b) and read my articles in the [Хаброблог](https://habr.com/users/difhel) (blog on Habr)!
 
 Feel free to reach out to me via any of the above channels. I'm always open to discussions and collaborations! Let's connect and build amazing things together. 🌟
-
-
-
-Please refer to my [portfolio](https://difhel.dev) for a more detailed list of my skills and past projects. Let's discuss how we can leverage these technologies to create awesome web and mobile applications! 🚀
-
-## 🤝 Contributing
 
 If you're interested in contributing to any of the projects or have suggestions for improvement, feel free to submit pull requests or open issues in the respective GitHub repositories. Let's collaborate and make these projects even better together! 👥
