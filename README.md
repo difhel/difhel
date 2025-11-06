@@ -15,8 +15,8 @@ Do you really need a big list of every technology I've ever worked with? :)
 
 I guess not, so superficially:
 
-- I have high expertise in frontend - mostly write in Typescript and React, love SCSS and know how to work with webpack/vite builders
-- Made social media bots using `aiogram` for Telegram and `vkbottle` for VKontakte. The most popular project is used by 40K+ people
+- I have high expertise in frontend - mostly write in Typescript and React, love SCSS and know how to work with webpack/vite bundlers
+- Made social media bots using `aiogram` for Telegram and `vkbottle` for VKontakte. My most popular project is used by over 100,000 people.
 - I write backend - love `fastapi` in Python ❤️, had experience with PHP, Express.js and C++ `httplib`
 - Doing devops stuff - bash native speaker, actively using Docker and Ansible
 
