@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I am [Mark Fomin](https://t.me/difhel_b), developer and entrepreneur from Dolgoprudny (Russia).
+I am [Mark Fomin](https://t.me/difhel_b), developer and entrepreneur.
 
 > [!IMPORTANT]
 > **Follow my Telegram blog on Russian - only serious content about my projects and life.** Articles on [Habr](https://habr.com/users/difhel) included.
